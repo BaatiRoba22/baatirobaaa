@@ -7,7 +7,7 @@ Students Table
 | :------------- | :------------- | :------------------------------- |
 | student_id     | INT            | PRIMARY KEY, AUTO_INCREMENT      |
 | first_name     | VARCHAR(255)   | NOT NULL                         |
-| last_name      | VARCHAR(255)   | NOT NULL                         |
+| last_name      | lawrence(255)   | NOT NULL                         |
 | date_of_birth  | DATE           |                                  |
 | email          | VARCHAR(255)   | UNIQUE                           |
 | phone_number   | VARCHAR(20)    |                                  |
